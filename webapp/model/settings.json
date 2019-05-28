@@ -1,0 +1,11 @@
+{
+	"urls": [
+		{
+			"name": "Identification de logos",
+			"url": "/ml/api/v2/image/classification/models/Marques_optimized/versions/1",
+			"headers": {
+				"APIKey": "mCfiGPMAXJVNXKgujL4BDX0X5lK9UtOB"
+			}
+		}
+	]
+}
